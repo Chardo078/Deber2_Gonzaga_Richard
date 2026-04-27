@@ -57,4 +57,5 @@ Estos deben realizarlos como un comentario de su proyecto quarkus, es decir en e
 
 6)Cachés de Lectura Crítica: Almacenamiento de tokens de acceso del sistema que requieren el mínimo overhead de acceso.
 
+
 7)Gestores de Memoria: Beans que monitorean el heap y lanzan alertas, donde el uso de un proxy podría interferir con la medición.
